@@ -1,0 +1,13 @@
+{
+  "format_version": 1,
+  "title": {
+    "en": "E2E Test Problem"
+  },
+  "difficulty_description": "Medium",
+  "avoided_contests_note": "",
+  "expected_difficulty_in_contest": "Div2C",
+  "tags": [
+    "e2e",
+    "testing"
+  ]
+}
